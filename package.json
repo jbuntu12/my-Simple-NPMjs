@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbuntu12/my-Simple-NPMjs.git"
+    "url": "https://github.com/jbuntu12/my-Simple-NPMjs"
   },
   "author": "jbuntu12",
   "license": "ISC",

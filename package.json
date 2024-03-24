@@ -1,6 +1,6 @@
 {
   "name": "simple-npmjs-jbuntu12",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My first NPM Package for study",
   "main": "index.js",
   "scripts": {

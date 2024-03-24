@@ -1,5 +1,5 @@
 {
-  "name": "@jbuntu/simpel-helo-world",
+  "name": "simple-npmjs-jbuntu12",
   "version": "0.1.0",
   "description": "My first NPM Package for study",
   "main": "index.js",
